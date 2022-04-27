@@ -1,0 +1,5 @@
+node_modules
+.env
+.my.cnf.30044
+.my.output.30044
+.mysql.30044
